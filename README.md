@@ -4,9 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Waiting for the first daily character
+## Rolf Muller
+<p align="center">
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
+</p>
 
-The first successful workflow run will publish a DC character here.
+Rolf Mueller was a sadistic pedophile working out of a German circus in the early 20th Century as a Strongman, kidnapping, torturing, and murdering scores of children. In 1920, he kidnapped a young blonde boy named Josef who became his protege and victim.
+
+**First Appearance:** Before Watchmen: Minutemen #2 (9/1/2012)
+
+[Character Details](https://comicvine.gamespot.com/rolf-muller/4005-87363/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
