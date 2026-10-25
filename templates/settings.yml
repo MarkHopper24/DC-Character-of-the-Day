@@ -1,4 +1,5 @@
 name: DC Character of the Day
+description: A new DC Comics character each day
 strategy: polling
 framework_version: 3.0.5
 no_screen_padding: 'no'
@@ -10,7 +11,10 @@ custom_fields:
 - keyname: About
   name: About This Plugin
   field_type: author_bio
-  description: A different DC Comics character every day, with a biography, first appearance, and Comic Vine link. Companion to Marvel Character of the Day.
+  description: >-
+    This plugin fetches and displays information about a random DC Comics character every day from Comic Vine's API.<br><br>
+    This plugin was created by Mark Hopper, Senior PM Architect @ Microsoft and cat dad. Check out his other projects on GitHub 🙂
   github_url: https://github.com/MarkHopper24
   learn_more_url: https://github.com/MarkHopper24/DC-Character-of-the-Day
+  email_address: mark.hopper24@gmail.com
   category: comics
