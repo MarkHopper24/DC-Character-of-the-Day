@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Simon Tycho
+## Dr. Moon
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/7/79073/2533827-simon_tycho_001.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/2124434-dr.jpg" width="600" height="auto"/>
 </p>
 
-Simon Tycho was created by Supergirl (2011) writers Michael Green and Mike Johnson and portrayed by artist Mahmud A. Asrar. Simon Tycho was a Twenty-eight year old trillionaire who lives on a space station and rarely ever sets foot on Earth. When Supergirl landed to earth he captured her and held her on board his space station hoping to contract some of her Kryptonian blood. An explosion during Supergirl's escape left most of his body destroyed yet his assistant Miss Thorn was able to place him inside the body of "The Brain", an organism of basic nerves and a brain, to keep him alive.
+Little is known about the early life of the man who goes by the name Doctor Moon. Indeed it is suspected that his title is unearned as no record of his accreditation can be found. "Genius can neither be confirmed or denied by a piece of paper" says Moon. In his mind, the acquisition of knowledge was more important than moral ethics. Dr. Moon is easily the Asian equivalent of the infamous Nazi surgeon Dr. Joseph Mengele.
 
-**First Appearance:** Supergirl #1 (11/30/2011)
+**First Appearance:** Batman #240 (3/31/1972)
 
-[Character Details](https://comicvine.gamespot.com/simon-tycho/4005-80909/)
+[Character Details](https://comicvine.gamespot.com/dr-moon/4005-35339/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
