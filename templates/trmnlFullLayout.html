@@ -12,7 +12,7 @@
 <span class="label label--small">First Appearance</span>
 <span class="value value--xsmall lg:value--small" data-fit-value="true">{{ FirstComicTitle | default: 'Not available' | escape }}</span>
 {% if FirstAppearance != blank %}<span class="label label--small">{{ FirstAppearance | escape }}</span>{% endif %}
-</div></div><div class="col col--center gap--xsmall">{% if CharacterURL != blank %}<img class="image image--contain w--16 h--16 lg:w--24 lg:h--24 dc-qr" alt="Comic Vine character page QR code" src="{{ dc_qr_url | escape }}">{% endif %}<span class="label label--small">Comic Vine</span></div></div>
+</div></div><div class="flex flex--col flex--center-x gap--xsmall dc-qr-wrap">{% if CharacterURL != blank %}<img class="image image--contain w--16 h--16 lg:w--24 lg:h--24 dc-qr" alt="Comic Vine character page QR code" src="{{ dc_qr_url | escape }}">{% endif %}<span class="label label--small">Comic Vine</span></div></div>
   </div>
 </div>
 {% else %}<div class="col col--center gap--small">{{ dc_state }}</div>{% endif %}
