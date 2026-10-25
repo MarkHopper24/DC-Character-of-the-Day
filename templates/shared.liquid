@@ -31,3 +31,12 @@
 </style>
 
 <style>.dc-card.layout--col > * {flex:0 0 auto}.dc-card.layout--col > .dc-portrait,.dc-card.layout--col > .stretch-y {flex:1 1 0;min-height:0}.dc-card .dc-qr-wrap {flex:none}</style>
+
+<style>
+.dc-card [data-clamp] {display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:var(--dc-lines,2);overflow:hidden}
+.dc-card [data-clamp="1"] {--dc-lines:1}
+.dc-card [data-clamp="3"] {--dc-lines:3}
+.dc-card [data-clamp="11"] {--dc-lines:11}
+.screen--lg .dc-card [data-clamp-lg="5"] {--dc-lines:5}
+.screen--lg .dc-card [data-clamp-lg="16"] {--dc-lines:16}
+</style>
