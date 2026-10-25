@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Rolf Muller
+## Simon Tycho
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/7/79073/2533827-simon_tycho_001.png" width="600" height="auto"/>
 </p>
 
-Rolf Mueller was a sadistic pedophile working out of a German circus in the early 20th Century as a Strongman, kidnapping, torturing, and murdering scores of children. In 1920, he kidnapped a young blonde boy named Josef who became his protege and victim.
+Simon Tycho was created by Supergirl (2011) writers Michael Green and Mike Johnson and portrayed by artist Mahmud A. Asrar. Simon Tycho was a Twenty-eight year old trillionaire who lives on a space station and rarely ever sets foot on Earth. When Supergirl landed to earth he captured her and held her on board his space station hoping to contract some of her Kryptonian blood. An explosion during Supergirl's escape left most of his body destroyed yet his assistant Miss Thorn was able to place him inside the body of "The Brain", an organism of basic nerves and a brain, to keep him alive.
 
-**First Appearance:** Before Watchmen: Minutemen #2 (9/1/2012)
+**First Appearance:** Supergirl #1 (11/30/2011)
 
-[Character Details](https://comicvine.gamespot.com/rolf-muller/4005-87363/)
+[Character Details](https://comicvine.gamespot.com/simon-tycho/4005-80909/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
