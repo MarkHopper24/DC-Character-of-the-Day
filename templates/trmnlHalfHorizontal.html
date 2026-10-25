@@ -1,0 +1,21 @@
+<div class="layout layout--stretch gap--small dc-card">
+{% if dc_has_character %}
+<div class="grid grid--cols-6 gap--small h--full w--full">
+  <div class="col col--center col--span-2 h--full dc-portrait">{% if ImageURL != blank %}<img class="image image-dither image--contain" alt="{{ Name | escape }}" src="{{ ImageURL | escape }}">{% else %}<span class="label">Portrait unavailable</span>{% endif %}</div>
+  <div class="col col--start col--span-4 gap--xsmall h--full dc-details">
+    <span class="title title--medium lg:title--xlarge text--center w--full" data-clamp="1">{{ Name | escape }}</span>
+    <div class="divider w--full"></div>
+    <div class="dc-body w--full"><span class="description" data-clamp="3">{{ Description | escape }}</span></div>
+    <div class="row row--center gap--small w--full"><div class="item w--full"><div class="meta"></div><div class="content">
+<span class="label label--small">First Appearance</span>
+<span class="value value--xsmall lg:value--small" data-fit-value="true">{{ FirstComicTitle | default: 'Not available' | escape }}</span>
+{% if FirstAppearance != blank %}<span class="label label--small">{{ FirstAppearance | escape }}</span>{% endif %}
+</div></div>{% if CharacterURL != blank %}<img class="image image--contain w--16 h--16 lg:w--24 lg:h--24 dc-qr" alt="Comic Vine character page QR code" src="{{ dc_qr_url | escape }}">{% endif %}</div>
+  </div>
+</div>
+{% else %}<div class="col col--center gap--small">{{ dc_state }}</div>{% endif %}
+</div>
+<div class="title_bar">
+  <span class="title"><span class="dc-brand">DC</span> · Character of the Day</span>
+  <span class="instance">{% if dc_stale %}Update delayed · {% endif %}{% if UpdatedAt != blank %}{{ UpdatedAt | date: '%b %d' | escape }}{% else %}{{ Name | default: 'Waiting for data' | escape }}{% endif %}</span>
+</div>

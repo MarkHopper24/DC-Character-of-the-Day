@@ -1,0 +1,42 @@
+name: Fetch DC Character Of The Day
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: dc-character-of-the-day
+  cancel-in-progress: false
+jobs:
+  run-script:
+    runs-on: windows-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Fetch DC Character Of The Day
+        shell: pwsh
+        env:
+          COMICVINEAPIKEY: ${{ secrets.COMICVINEAPIKEY }}
+        run: |
+          if ([string]::IsNullOrWhiteSpace($env:COMICVINEAPIKEY)) {
+            throw "Add the COMICVINEAPIKEY Actions secret in repository Settings > Secrets and variables > Actions."
+          }
+          ./scripts/DCCharacterOfTheDay.ps1 -comicVineApiKey $env:COMICVINEAPIKEY
+      - name: Update README
+        shell: pwsh
+        run: ./scripts/ReadMeUpdater.ps1
+      - name: Commit and push daily character
+        shell: pwsh
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add DCCharacterOfTheDay.json character.jpg characterQR.jpg README.md
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) { Write-Host 'No character changes to publish.'; exit 0 }
+          if ($LASTEXITCODE -ne 1) { throw 'Unable to inspect staged changes.' }
+          git commit -m 'Update DC Character of the Day'
+          if ($LASTEXITCODE -ne 0) { throw 'Unable to commit daily character.' }
+          git push
+          if ($LASTEXITCODE -ne 0) { throw 'Unable to push daily character.' }

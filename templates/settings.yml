@@ -1,0 +1,16 @@
+name: DC Character of the Day
+strategy: polling
+framework_version: 3.4.0
+no_screen_padding: 'no'
+dark_mode: 'no'
+polling_url: https://raw.githubusercontent.com/MarkHopper24/DC-Character-of-the-Day/refs/heads/main/DCCharacterOfTheDay.json
+polling_verb: get
+refresh_interval: 1440
+custom_fields:
+- keyname: About
+  name: About This Plugin
+  field_type: author_bio
+  description: A different DC Comics character every day, with a biography, first appearance, and Comic Vine link. Companion to Marvel Character of the Day.
+  github_url: https://github.com/MarkHopper24
+  learn_more_url: https://github.com/MarkHopper24/DC-Character-of-the-Day
+  category: comics
