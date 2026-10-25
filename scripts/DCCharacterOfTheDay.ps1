@@ -326,7 +326,8 @@ function Get-RandomCharacter {
                 $null -ne $_.first_appeared_in_issue -and
                 $null -ne $_.image -and
                 $null -ne $_.image.medium_url -and
-                $_.image.medium_url -notlike "*image_not_available*" -and
+                ([Uri]$_.image.medium_url).Scheme -eq "https" -and
+                $_.image.medium_url -notmatch "(?i)(?:image[_-]not[_-]available|(?:^|[/_-])(?:blank|placeholder|no[_-]?image)(?:[._/?#-]|$))" -and
                 $null -ne $_.site_detail_url -and
                 $_.site_detail_url -ne ""
             })
