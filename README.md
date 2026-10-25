@@ -29,7 +29,10 @@ DC Character of the Day is a PowerShell-based application hosted in GitHub that 
 - <b>TRMNL Integration:</b> Offers Liquid templates for usage with [TRMNL](https://usetrmnl.com). To use this data for a plugin, you can either:
     1. Create a custom plugin with the polling strategy pointing to the JSON endpoint above. Copy the contents of the files in the .\templates folder to your plugin's markup, and you're done.
     2. Use the companion DC Character of the Day private plugin in TRMNL.
-<!-- Verified DC preview will be added after the first render. -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/MarkHopper24/DC-Character-of-the-Day/refs/heads/main/templates/trmnlPluginScreenshot.jpg" width="400" height="auto"/><br>
+(Sample TRMNL screenshot)
+</p>
 
 <h3>Attribution</h3>
 Data provided by Comic Vine https://comicvine.gamespot.com. © 2026 DC Comics
