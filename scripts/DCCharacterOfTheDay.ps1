@@ -25,7 +25,7 @@ param(
 
 # Set the Comic Vine API key and base URL
 $ErrorActionPreference = "Stop"
-$apiKey = $comicVineApiKey
+$apiKey = $comicVineApiKey.Trim()
 if ([string]::IsNullOrWhiteSpace($apiKey)) { throw "Configure the COMICVINEAPIKEY repository secret before running the updater." }
 $BaseURL = "https://comicvine.gamespot.com/api/"
 
@@ -50,7 +50,7 @@ function Get-ComicVineApiData {
     for ($attempt = 1; $attempt -le 5; $attempt++) {
         try {
             Wait-BeforeApiCall
-            $response = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 60 -UserAgent "DCCharacterOfTheDay/1.0 (github.com/MarkHopper24/DC-Character-of-the-Day)"
+            $response = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 60
             if ($response.status_code -ne 1) {
                 throw "Comic Vine returned an unsuccessful API response."
             }
