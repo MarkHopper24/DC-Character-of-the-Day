@@ -45,6 +45,6 @@ Add your Comic Vine API key as the repository Actions secret [COMICVINEAPIKEY](h
 
 The updater uses Comic Vine publisher ID 10 (DC Comics), keeps the same character JSON fields as the Marvel companion, and adds UpdatedAt and Status for display freshness. character.jpg is the portrait; characterQR.jpg is the Comic Vine character-page QR code. A failed fetch leaves the previously published character unchanged.
 
-The four layout templates use TRMNL Framework 3.4. Copy templates/shared.liquid to Shared and the matching HTML templates to Full, Half Horizontal, Half Vertical, and Quadrant. templates/settings.yml contains the polling settings.
+The four layout templates mirror the current Marvel plugin markup and use the same TRMNL Framework 3.0.5 version. Clear Shared (templates/shared.liquid is intentionally empty) and copy the matching HTML templates to Full, Half Horizontal, Half Vertical, and Quadrant. templates/settings.yml contains the polling settings.
 
 Companion project: [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day).

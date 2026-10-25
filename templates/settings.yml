@@ -1,6 +1,6 @@
 name: DC Character of the Day
 strategy: polling
-framework_version: 3.4.0
+framework_version: 3.0.5
 no_screen_padding: 'no'
 dark_mode: 'no'
 polling_url: https://raw.githubusercontent.com/MarkHopper24/DC-Character-of-the-Day/refs/heads/main/DCCharacterOfTheDay.json
