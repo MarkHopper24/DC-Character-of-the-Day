@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Dr. Moon
+## Bigfoot
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/2124434-dr.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/9241/455767-001.jpg" width="600" height="auto"/>
 </p>
 
-Little is known about the early life of the man who goes by the name Doctor Moon. Indeed it is suspected that his title is unearned as no record of his accreditation can be found. "Genius can neither be confirmed or denied by a piece of paper" says Moon. In his mind, the acquisition of knowledge was more important than moral ethics. Dr. Moon is easily the Asian equivalent of the infamous Nazi surgeon Dr. Joseph Mengele.
+Bigfoot originally fought alongside Doll Man, Human Bomb, Phantom Lady and the Ray in S. H. A. D. E., but later hunted them down when they left to become Freedom Fighters. Bigfoot confronted the Human Bomb and the two fought. Human Bomb accidentally killed him when, trying to knock him out, he used too much of his power and killed him instead. Human Bomb was devastated over what he had done.
 
-**First Appearance:** Batman #240 (3/31/1972)
+**First Appearance:** Crisis Aftermath: The Battle for Blüdhaven #2 (6/15/2006)
 
-[Character Details](https://comicvine.gamespot.com/dr-moon/4005-35339/)
+[Character Details](https://comicvine.gamespot.com/bigfoot/4005-56408/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
