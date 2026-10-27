@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Bigfoot
+## Cherry Bomb
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/9241/455767-001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111612243/8787911-cherrybomb2.jpg" width="600" height="auto"/>
 </p>
 
-Bigfoot originally fought alongside Doll Man, Human Bomb, Phantom Lady and the Ray in S. H. A. D. E., but later hunted them down when they left to become Freedom Fighters. Bigfoot confronted the Human Bomb and the two fought. Human Bomb accidentally killed him when, trying to knock him out, he used too much of his power and killed him instead. Human Bomb was devastated over what he had done.
+In 1943, Gloria James's father, Professor Bran James, worked with Roy Lincoln as a chemist, helping him develop a liquid that could open any lock without damaging it_ Professor James was killed during an attack on the lab by a pair of criminals looking to steal the lock-solving liquid for themselves. Upon learning of her father's death, Gloria also discovered that Roy Lincoln was the controversial new hero known to authorities in Washington. D. C. as the Human Bomb. Gloria knew that the police had sought the identity of the Human Bomb not only for the destruction left in his wake, but also for the recent violent deaths of several of his enemies.
 
-**First Appearance:** Crisis Aftermath: The Battle for Blüdhaven #2 (6/15/2006)
+**First Appearance:** Earth-Prime #4 (7/1/2022)
 
-[Character Details](https://comicvine.gamespot.com/bigfoot/4005-56408/)
+[Character Details](https://comicvine.gamespot.com/cherry-bomb/4005-177247/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
