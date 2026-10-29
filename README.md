@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Demise
+## Frank Raymond
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/5783608-demise01.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/4466643-8323740942-298px.jpg" width="600" height="auto"/>
 </p>
 
-Member of the Axis of Evil and enemy of the Maximums, Demise had the power to sense the near death of those around him and gain power from that. The excesive absortion of such energies however could alter his senses, as it was happened when he forsaw Skyscraper death.
+Older brother of Ramon Raymond, Frankfollowed his father foresteps as a police menawhile Ramon became a marine biologist. Depiste the strained relationship, Frank really cares about his brother and helps him after he discovered his little brother was the superhero known as Aquaman.
 
-**First Appearance:** Superman/Batman #20 (6/1/2005)
+**First Appearance:** Just Imagine Stan Lee With Scott McDaniel Creating Aquaman #1 (1/1/2002)
 
-[Character Details](https://comicvine.gamespot.com/demise/4005-107465/)
+[Character Details](https://comicvine.gamespot.com/frank-raymond/4005-116994/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
