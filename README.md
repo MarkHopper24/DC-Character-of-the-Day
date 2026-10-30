@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Frank Raymond
+## Johnny Dune
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/4466643-8323740942-298px.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15238/1268366-johnny_dune.jpg" width="600" height="auto"/>
 </p>
 
-Older brother of Ramon Raymond, Frankfollowed his father foresteps as a police menawhile Ramon became a marine biologist. Depiste the strained relationship, Frank really cares about his brother and helps him after he discovered his little brother was the superhero known as Aquaman.
+After being wounded by the Viet Cong during the Battle for Firebase Bravo, the heat of battle triggers his "Pied Piper" mutant powers. Dune's enemies cease fighting after he yells for them to stop. Dune guns down his assailants and eventually wins an award for his bravery in combat that day. When Dune returns to America after the his tour in Vietnam, his political aspirations seem to be halted by a double cross by New York City 's mob boss. Johnny Dune uses his powers during a concert in Prospect Park, which eventually lead to his mind control of a mob, which includes The Atom, Green Arrow, Black Canary, and Batman.
 
-**First Appearance:** Just Imagine Stan Lee With Scott McDaniel Creating Aquaman #1 (1/1/2002)
+**First Appearance:** Justice League of America #95 (12/31/1971)
 
-[Character Details](https://comicvine.gamespot.com/frank-raymond/4005-116994/)
+[Character Details](https://comicvine.gamespot.com/johnny-dune/4005-37565/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
