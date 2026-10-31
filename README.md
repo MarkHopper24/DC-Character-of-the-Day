@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Johnny Dune
+## Patrick Wayne
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15238/1268366-johnny_dune.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111147698/4521161-screen%20shot%202015-04-21%20at%207.51.43%20pm.jpg" width="600" height="auto"/>
 </p>
 
-After being wounded by the Viet Cong during the Battle for Firebase Bravo, the heat of battle triggers his "Pied Piper" mutant powers. Dune's enemies cease fighting after he yells for them to stop. Dune guns down his assailants and eventually wins an award for his bravery in combat that day. When Dune returns to America after the his tour in Vietnam, his political aspirations seem to be halted by a double cross by New York City 's mob boss. Johnny Dune uses his powers during a concert in Prospect Park, which eventually lead to his mind control of a mob, which includes The Atom, Green Arrow, Black Canary, and Batman.
+Patrick Wayne is the father of Thomas Wayne and grandfather to Bruce Wayne. He is the eldest son of Kenneth and Elizabeth Wayne. His father developed Wayne Chemical, but died at a fairly young age leaving the fortune to his 37-year-old wife Laura Wayne. Laura was a shrewd businesswoman and heavily involved in the Prohibition movement, while raising their infant son. Patrick inherited the family business upon his mother's death. He was the creator of Wayne Tech which helped support both World Wars. Later, he would combine the Wayne resources to create Wayne Corp. He worked closely with his brother Silas Wayne.
 
-**First Appearance:** Justice League of America #95 (12/31/1971)
+**First Appearance:** Batman Secret Files #1 (10/1/1997)
 
-[Character Details](https://comicvine.gamespot.com/johnny-dune/4005-37565/)
+[Character Details](https://comicvine.gamespot.com/patrick-wayne/4005-117754/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
