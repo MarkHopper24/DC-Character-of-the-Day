@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Patrick Wayne
+## Hyena (Shi)
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111147698/4521161-screen%20shot%202015-04-21%20at%207.51.43%20pm.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8919511-hyena-shi08.jpg" width="600" height="auto"/>
 </p>
 
-Patrick Wayne is the father of Thomas Wayne and grandfather to Bruce Wayne. He is the eldest son of Kenneth and Elizabeth Wayne. His father developed Wayne Chemical, but died at a fairly young age leaving the fortune to his 37-year-old wife Laura Wayne. Laura was a shrewd businesswoman and heavily involved in the Prohibition movement, while raising their infant son. Patrick inherited the family business upon his mother's death. He was the creator of Wayne Tech which helped support both World Wars. Later, he would combine the Wayne resources to create Wayne Corp. He worked closely with his brother Silas Wayne.
+Jivan Shi was angered at losing his status as a doctor because his medical degree from India was not recognized in the United States. Jivan Shi now as a therapist manipulated Summer Day into becoming the Hyena again and to infect him with the "curse" so that he could gain revenge on the medical community.
 
-**First Appearance:** Batman Secret Files #1 (10/1/1997)
+**First Appearance:** The Fury of Firestorm #10 (3/31/1983)
 
-[Character Details](https://comicvine.gamespot.com/patrick-wayne/4005-117754/)
+[Character Details](https://comicvine.gamespot.com/hyena-shi/4005-182899/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
