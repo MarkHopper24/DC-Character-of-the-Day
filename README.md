@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Ermey
+## Ranagor
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/9241/1216452-001.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/92932/1745460-skullpart2b.jpg" width="600" height="auto"/>
 </p>
 
-Ermey was a drill instructor with the Green Lantern Corps and trained such notable Lanterns like Kilowog and Tomar Re. Ermey was particularly difficult on Kilowog, intentionally mispronouncing his name and chastising him for calling his pregnant wife during basic training. Ermey was fond of training his cadets on a unique planet which was split into four very distinct climates and terrain. There the ring less cadets faced many trials such as climbing hand over hand over a pit of lava, trekking through a desert filled with sinkholes, enduring freezing waters, and fighting a massive squid under the sea.
+Barbarian prince that Diana met after accidentally traveling to an alternate dimension. She aided him to first escape from Castle Skull and then return to lay siege to it. He is highly skilled in armed combat as well as being a skilled leader and tactician.
 
-**First Appearance:** Blackest Night: Tales of the Corps #3 (9/1/2009)
+**First Appearance:** Wonder Woman #190 (10/1/1970)
 
-[Character Details](https://comicvine.gamespot.com/ermey/4005-64044/)
+[Character Details](https://comicvine.gamespot.com/ranagor/4005-77151/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
