@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Ranagor
+## Mitchell Black
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/92932/1745460-skullpart2b.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/8669/194952-170751-peacemaker.jpg" width="600" height="auto"/>
 </p>
 
-Barbarian prince that Diana met after accidentally traveling to an alternate dimension. She aided him to first escape from Castle Skull and then return to lay siege to it. He is highly skilled in armed combat as well as being a skilled leader and tactician.
+For the first Peacemaker click Christopher Smith. For the second Peacemaker click Peacemaker II. Mitchell Black was once a doctor practicing in an important hospital. His medical carrer ended when he performed a risky operation on a child’s pulmonary system despite the religious objections of the parents. Unfortunately the child did not survive due to post operative complications. The hospital suspended Black’s privileges and ordered a full investigation of the incident. In the end, the AMA board of inquiry revoked Black’s license to practice due to his misconduct.
 
-**First Appearance:** Wonder Woman #190 (10/1/1970)
+**First Appearance:** DCU Heroes Secret Files #1 (2/28/1999)
 
-[Character Details](https://comicvine.gamespot.com/ranagor/4005-77151/)
+[Character Details](https://comicvine.gamespot.com/mitchell-black/4005-122745/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
