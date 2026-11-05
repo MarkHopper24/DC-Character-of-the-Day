@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Mitchell Black
+## Death-Doll
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/8669/194952-170751-peacemaker.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83392/1583964-208043_5727_115455_1_aztek_the_ultimate_super.jpg" width="600" height="auto"/>
 </p>
 
-For the first Peacemaker click Christopher Smith. For the second Peacemaker click Peacemaker II. Mitchell Black was once a doctor practicing in an important hospital. His medical carrer ended when he performed a risky operation on a child’s pulmonary system despite the religious objections of the parents. Unfortunately the child did not survive due to post operative complications. The hospital suspended Black’s privileges and ordered a full investigation of the incident. In the end, the AMA board of inquiry revoked Black’s license to practice due to his misconduct.
+Liberty Lass and Mr. America made their mark as a crime-fighting husband and wife team that didn't know each others' secret identities. Mr. America eventually became the psychotic vigilante Bloodtype, and after a horrific accident Liberty Lass was pieced back together by the CIA as a cyborg. Ashamed of her plastic and metal body, Death-Doll became unbalanced and turned to crime.
 
-**First Appearance:** DCU Heroes Secret Files #1 (2/28/1999)
+**First Appearance:** Aztek: The Ultimate Man #3 (10/1/1996)
 
-[Character Details](https://comicvine.gamespot.com/mitchell-black/4005-122745/)
+[Character Details](https://comicvine.gamespot.com/death-doll/4005-60792/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
