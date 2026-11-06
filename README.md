@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Death-Doll
+## Goober
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/83392/1583964-208043_5727_115455_1_aztek_the_ultimate_super.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/4319720-goober.jpg" width="600" height="auto"/>
 </p>
 
-Liberty Lass and Mr. America made their mark as a crime-fighting husband and wife team that didn't know each others' secret identities. Mr. America eventually became the psychotic vigilante Bloodtype, and after a horrific accident Liberty Lass was pieced back together by the CIA as a cyborg. Ashamed of her plastic and metal body, Death-Doll became unbalanced and turned to crime.
+More than the pet dog he appears to be, Goober is able to turn invisible at will and speak with humans without difficulty. Although a coward, he is clearly the de facto leader of the human journalistic squad called the Ghost-Chasers. For some reason, no one ever seems to be surprised to meet a green dog who can speak and turn invisible.
 
-**First Appearance:** Aztek: The Ultimate Man #3 (10/1/1996)
+**First Appearance:** Cartoon Network Presents #24 (8/1/1999)
 
-[Character Details](https://comicvine.gamespot.com/death-doll/4005-60792/)
+[Character Details](https://comicvine.gamespot.com/goober/4005-111976/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
