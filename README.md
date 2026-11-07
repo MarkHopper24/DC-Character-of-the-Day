@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Goober
+## Jacob Stockman
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/4319720-goober.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11171/111719444/8935352-jacob.jpg" width="600" height="auto"/>
 </p>
 
-More than the pet dog he appears to be, Goober is able to turn invisible at will and speak with humans without difficulty. Although a coward, he is clearly the de facto leader of the human journalistic squad called the Ghost-Chasers. For some reason, no one ever seems to be surprised to meet a green dog who can speak and turn invisible.
+Born in the 1700s. The successfull summoning of Barbatos was done in his cellar. He was supposed to finish the ritual by sacrificing the young girl, Dominique, but was stopped by Thomas Jefferson. He hesitated and didn't kill her at the end. After that he ran in fear with the others and moved to Canada.
 
-**First Appearance:** Cartoon Network Presents #24 (8/1/1999)
+**First Appearance:** Batman #452 (8/1/1990)
 
-[Character Details](https://comicvine.gamespot.com/goober/4005-111976/)
+[Character Details](https://comicvine.gamespot.com/jacob-stockman/4005-183136/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
