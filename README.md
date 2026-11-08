@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Jacob Stockman
+## Sunburst
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11171/111719444/8935352-jacob.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6754/189688-55412-sunburst.jpg" width="600" height="auto"/>
 </p>
 
-Born in the 1700s. The successfull summoning of Barbatos was done in his cellar. He was supposed to finish the ritual by sacrificing the young girl, Dominique, but was stopped by Thomas Jefferson. He hesitated and didn't kill her at the end. After that he ran in fear with the others and moved to Canada.
+Sunburst was part of the Stormwatch team when Kussein realized that he had lost the war and decided to lay waste to Kuwait. He and the rest of the team (Batttalion, Flashpoint, Sunburst and Nautika ) stopped the soldiers from blowing up an oil field. In a surprise attack by Deathtrap and his associates Flashpoint, Nautika and Sunburst where attacked and thought to be killed but they were taking back to Gamorran as hostages. He was later saved by Stormwatch after battalion probed a Gamorran’s mind and found out they were still alive.
 
-**First Appearance:** Batman #452 (8/1/1990)
+**First Appearance:** Image Zero #0 (10/1/1993)
 
-[Character Details](https://comicvine.gamespot.com/jacob-stockman/4005-183136/)
+[Character Details](https://comicvine.gamespot.com/sunburst/4005-25769/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
