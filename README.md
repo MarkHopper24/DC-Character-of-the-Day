@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Sunburst
+## Queen Miraset
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6754/189688-55412-sunburst.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111144496/4152030-prysm_parents_tt24p12.jpg" width="600" height="auto"/>
 </p>
 
-Sunburst was part of the Stormwatch team when Kussein realized that he had lost the war and decided to lay waste to Kuwait. He and the rest of the team (Batttalion, Flashpoint, Sunburst and Nautika ) stopped the soldiers from blowing up an oil field. In a surprise attack by Deathtrap and his associates Flashpoint, Nautika and Sunburst where attacked and thought to be killed but they were taking back to Gamorran as hostages. He was later saved by Stormwatch after battalion probed a Gamorran’s mind and found out they were still alive.
+One of the human women abducted by the H'San Natall for the sake an alien/human crossbreading program. After giving birth to Prysm (who would go on to join the Teen Titans ) Queen Miraset chose to betray the the human race, and remained with the H'San Natall, eventually becoming their queen.
 
-**First Appearance:** Image Zero #0 (10/1/1993)
+**First Appearance:** Teen Titans #22 (7/1/1998)
 
-[Character Details](https://comicvine.gamespot.com/sunburst/4005-25769/)
+[Character Details](https://comicvine.gamespot.com/queen-miraset/4005-108560/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
