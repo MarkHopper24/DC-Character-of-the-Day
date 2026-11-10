@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Queen Miraset
+## T:D:H:D
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111144496/4152030-prysm_parents_tt24p12.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103530/3036923-urbanlegend.png" width="600" height="auto"/>
 </p>
 
-One of the human women abducted by the H'San Natall for the sake an alien/human crossbreading program. After giving birth to Prysm (who would go on to join the Teen Titans ) Queen Miraset chose to betray the the human race, and remained with the H'San Natall, eventually becoming their queen.
+The second annual of the Tales of the Green Lantern Corps series begins with renegade Lantern and Corps archenemy Sinestro locked away in an Oan sciencell, along with several other criminals, in a section of the prison reserved for the worst cosmic offenders on record. The rest of the prisoners listen to Sinestro seemingly talking to himself non-stop and grow irritated with his yammering. Sinestro calls them fools and tells them that the Guardians would not waste any space in such a high-profile area of the prison, and says he is certain that the unseen prisoner in the ostensibly empty cell next to him is actually the entire area of space known as Sector 3600.
 
-**First Appearance:** Teen Titans #22 (7/1/1998)
+**First Appearance:** Tales of the Green Lantern Corps Annual #2 (12/31/1986)
 
-[Character Details](https://comicvine.gamespot.com/queen-miraset/4005-108560/)
+[Character Details](https://comicvine.gamespot.com/tdhd/4005-89060/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
