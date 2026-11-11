@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## T:D:H:D
+## Alex Trent
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/10/103530/3036923-urbanlegend.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11116/111160422/7893020-6485828117-latest.jpg" width="600" height="auto"/>
 </p>
 
-The second annual of the Tales of the Green Lantern Corps series begins with renegade Lantern and Corps archenemy Sinestro locked away in an Oan sciencell, along with several other criminals, in a section of the prison reserved for the worst cosmic offenders on record. The rest of the prisoners listen to Sinestro seemingly talking to himself non-stop and grow irritated with his yammering. Sinestro calls them fools and tells them that the Guardians would not waste any space in such a high-profile area of the prison, and says he is certain that the unseen prisoner in the ostensibly empty cell next to him is actually the entire area of space known as Sector 3600.
+For the First Bloodsport see: Bloodsport Trent's mother became a member of the Aryan Brotherhood, a white supremacist organization where she met her husband (Trent's father), who was sheriff of the town of Melonville. She allowed herself to be experimented upon while pregnant with Alex, as part of an attempt to make a superior breed of white men. This experimentation involved the murder of over a dozen innocent African-American's. She was arrested (along with the rest of the Brotherhood involved in the murders) thanks to the efforts of a young Perry White and Franklin Stern. Alex's father was killed while trying to stop White and Stern from revealing what they had learned.
 
-**First Appearance:** Tales of the Green Lantern Corps Annual #2 (12/31/1986)
+**First Appearance:** Adventures of Superman #506 (11/30/1993)
 
-[Character Details](https://comicvine.gamespot.com/tdhd/4005-89060/)
+[Character Details](https://comicvine.gamespot.com/alex-trent/4005-168273/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
