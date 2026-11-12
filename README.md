@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Alex Trent
+## Adam Grant
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11116/111160422/7893020-6485828117-latest.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/925258-200px_adam_grant_01.jpg" width="600" height="auto"/>
 </p>
 
-For the First Bloodsport see: Bloodsport Trent's mother became a member of the Aryan Brotherhood, a white supremacist organization where she met her husband (Trent's father), who was sheriff of the town of Melonville. She allowed herself to be experimented upon while pregnant with Alex, as part of an attempt to make a superior breed of white men. This experimentation involved the murder of over a dozen innocent African-American's. She was arrested (along with the rest of the Brotherhood involved in the murders) thanks to the efforts of a young Perry White and Franklin Stern. Alex's father was killed while trying to stop White and Stern from revealing what they had learned.
+Adam was the son of Daily Planet reporter Cat Grant and her ex-husband Joe Morgan. He was then later part of a group of children who were kidnapped by a malfunctioning Toyman robot,during which he attempted to lead the other children in an escape attempt from the villain's lair. However Toyman discovered this and quickly killed Adam.
 
-**First Appearance:** Adventures of Superman #506 (11/30/1993)
+**First Appearance:** Adventures of Superman #429 (6/30/1987)
 
-[Character Details](https://comicvine.gamespot.com/alex-trent/4005-168273/)
+[Character Details](https://comicvine.gamespot.com/adam-grant/4005-13707/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
