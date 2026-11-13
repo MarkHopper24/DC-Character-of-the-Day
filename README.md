@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Adam Grant
+## Charma
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/925258-200px_adam_grant_01.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/29837/764916-charma01_copy.jpg" width="600" height="auto"/>
 </p>
 
-Adam was the son of Daily Planet reporter Cat Grant and her ex-husband Joe Morgan. He was then later part of a group of children who were kidnapped by a malfunctioning Toyman robot,during which he attempted to lead the other children in an escape attempt from the villain's lair. However Toyman discovered this and quickly killed Adam.
+In the 30th century, a young girl named Charma Drisden lived with her parents on a space colony whose population was devastated by plague. Her parents were tragically killed in a food riot shortly after the outbreak, and the authorities sent the orphaned Charma into the care of a strict and prison-like girl’s school. Charma grew to adolescence at the school and eventually her mutant ability emerged, changing her skin to a pale yellow hue. She began emitting a powerful hypnotic aura that caused males to love and protect her and females to hate and attack her.
 
-**First Appearance:** Adventures of Superman #429 (6/30/1987)
+**First Appearance:** Superboy #221 (11/1/1976)
 
-[Character Details](https://comicvine.gamespot.com/adam-grant/4005-13707/)
+[Character Details](https://comicvine.gamespot.com/charma/4005-52495/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
