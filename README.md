@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Charma
+## Submissionary Judah
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/29837/764916-charma01_copy.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/971278-judah_10.jpg" width="600" height="auto"/>
 </p>
 
-In the 30th century, a young girl named Charma Drisden lived with her parents on a space colony whose population was devastated by plague. Her parents were tragically killed in a food riot shortly after the outbreak, and the authorities sent the orphaned Charma into the care of a strict and prison-like girl’s school. Charma grew to adolescence at the school and eventually her mutant ability emerged, changing her skin to a pale yellow hue. She began emitting a powerful hypnotic aura that caused males to love and protect her and females to hate and attack her.
+Submissionary Judah was created alongside his fellow submissionaries by Melmoth, who set them to watch over the people of Limbo Town. He and the other submissionaries became the head of a theocratic government which governed the population for four centuries.
 
-**First Appearance:** Superboy #221 (11/1/1976)
+**First Appearance:** Seven Soldiers: Klarion the Witch Boy #1 (6/1/2005)
 
-[Character Details](https://comicvine.gamespot.com/charma/4005-52495/)
+[Character Details](https://comicvine.gamespot.com/submissionary-judah/4005-66334/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
