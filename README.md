@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Submissionary Judah
+## Heat Wave 1000000
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/971278-judah_10.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/6296013-01_heat%20wave.jpg" width="600" height="auto"/>
 </p>
 
-Submissionary Judah was created alongside his fellow submissionaries by Melmoth, who set them to watch over the people of Limbo Town. He and the other submissionaries became the head of a theocratic government which governed the population for four centuries.
+After his datanet was accidentally destroyed leaving him destituted, Heat Wave claim that was not accicednt and since then, he wants to destroy the 853rd century headnet, starting with the databanks of Mercury. He has clashed with Justice Legion A Flash and with the Captain Marvel and Flash of the first age of heroes.
 
-**First Appearance:** Seven Soldiers: Klarion the Witch Boy #1 (6/1/2005)
+**First Appearance:** The Flash #1000000 (11/1/1998)
 
-[Character Details](https://comicvine.gamespot.com/submissionary-judah/4005-66334/)
+[Character Details](https://comicvine.gamespot.com/heat-wave-1000000/4005-146056/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
