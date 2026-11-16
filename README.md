@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Heat Wave 1000000
+## Pado Swakatoon
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/6296013-01_heat%20wave.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/85552/6512370-plastic%20man%20%282018-%29%20002-011.jpg" width="600" height="auto"/>
 </p>
 
-After his datanet was accidentally destroyed leaving him destituted, Heat Wave claim that was not accicednt and since then, he wants to destroy the 853rd century headnet, starting with the databanks of Mercury. He has clashed with Justice Legion A Flash and with the Captain Marvel and Flash of the first age of heroes.
+Pado is a street smart young transgender man, caught caught up with many problems. One, being mistaken for being female a lot. Pado soon finds himself a worthwhile partner with Eel O'Brien, a strip club bouncer being encouraged to go straight by the semi-positive life he is building for himself. Eel's life goes sideways when he gains super powers and super-powered enemies. This puts Pado in the crosshairs, literally, as the enemies understand they can manipulate Eel by threatening Pado.
 
-**First Appearance:** The Flash #1000000 (11/1/1998)
+**First Appearance:** Plastic Man #1 (8/1/2018)
 
-[Character Details](https://comicvine.gamespot.com/heat-wave-1000000/4005-146056/)
+[Character Details](https://comicvine.gamespot.com/pado-swakatoon/4005-149315/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
