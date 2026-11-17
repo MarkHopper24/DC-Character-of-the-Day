@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Pado Swakatoon
+## Rovo
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/8/85552/6512370-plastic%20man%20%282018-%29%20002-011.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/28245/565649-rovo.jpg" width="600" height="auto"/>
 </p>
 
-Pado is a street smart young transgender man, caught caught up with many problems. One, being mistaken for being female a lot. Pado soon finds himself a worthwhile partner with Eel O'Brien, a strip club bouncer being encouraged to go straight by the semi-positive life he is building for himself. Eel's life goes sideways when he gains super powers and super-powered enemies. This puts Pado in the crosshairs, literally, as the enemies understand they can manipulate Eel by threatening Pado.
+Rovo was sent off in a rocket along with the only son of Professor Charles Keith who put the boy and dog in the rocket to save them from a tidal wave set to destroy their tropical home. Rovo accidentally bumped the rocket's controls which sent the craft to the planet Zumoor. On Zumoor, Rovo and the boy gained super-powers from the planet's low gravity and the golden energy rays from the moon. The boy, who was adopted by the kindly Kazzans, grew to become Mighty Boy with Rovo acting as his dog sidekick. Later both Rovo and Mighty Boy would meet and befriend Superboy.
 
-**First Appearance:** Plastic Man #1 (8/1/2018)
+**First Appearance:** Superboy #85 (12/1/1960)
 
-[Character Details](https://comicvine.gamespot.com/pado-swakatoon/4005-149315/)
+[Character Details](https://comicvine.gamespot.com/rovo/4005-39343/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
