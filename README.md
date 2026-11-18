@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Rovo
+## Calendar Man
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/2/28245/565649-rovo.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/64770/1268927-julianday.jpg" width="600" height="auto"/>
 </p>
 
-Rovo was sent off in a rocket along with the only son of Professor Charles Keith who put the boy and dog in the rocket to save them from a tidal wave set to destroy their tropical home. Rovo accidentally bumped the rocket's controls which sent the craft to the planet Zumoor. On Zumoor, Rovo and the boy gained super-powers from the planet's low gravity and the golden energy rays from the moon. The boy, who was adopted by the kindly Kazzans, grew to become Mighty Boy with Rovo acting as his dog sidekick. Later both Rovo and Mighty Boy would meet and befriend Superboy.
+As a youth, Julian Day's father promised he would be home for the holidays. Taking a bus to wait for him at a bus stop, Day waited from Christmas Eve to New Year's Day. When the police took Day in on New Year's Day, he was almost dead from exposure. From then on, Day began to assign almost literal meanings to each day. In addition, he began to suffer mood swings related to the days.
 
-**First Appearance:** Superboy #85 (12/1/1960)
+**First Appearance:** Detective Comics #259 (9/1/1958)
 
-[Character Details](https://comicvine.gamespot.com/rovo/4005-39343/)
+[Character Details](https://comicvine.gamespot.com/calendar-man/4005-19682/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
