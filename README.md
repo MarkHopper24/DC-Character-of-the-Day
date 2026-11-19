@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Aquaman
+## Owen Dane
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9609856-ezgif-3-c48330599a.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/6129890-rco023.jpg" width="600" height="auto"/>
 </p>
 
-According to his first origin story, Aquaman aka Arthur Curry was the son of Atlanna, an Atlantean princess banished from Atlantis due to her interest in and frequent visits to the surface world, and Tom Curry, a lighthouse keeper living in Amnesty Bay, Maine. Both parents first meet each during a terrible storm one night, when Curry finds Atlanna thrown up on the shore by storm-tossed waves, and rescues her from harm. Both Curry and Atlanna made the lighthouse their home and developed a strong bond that would quickly lead to a sentimental relationship when Arthur was born. Although Curry always knew there was more to his wife than she would let on, he'd never ask her about her origins.
+Owen Dane is a son of Danek Milos, the mad bomber also known as "The Snowman", who spent years in Arkham Asylum under Harleen Quinzel observation. After his death, he swore revenge on his father therapist, for locked him in asylum for the rest of his life.
 
-**First Appearance:** More Fun Comics #73 (11/30/1941)
+**First Appearance:** Harley Quinn #26 (1/1/2003)
 
-[Character Details](https://comicvine.gamespot.com/aquaman/4005-2357/)
+[Character Details](https://comicvine.gamespot.com/owen-dane/4005-143749/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
