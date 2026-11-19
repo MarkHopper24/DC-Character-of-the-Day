@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Calendar Man
+## Aquaman
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/64770/1268927-julianday.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/9609856-ezgif-3-c48330599a.jpg" width="600" height="auto"/>
 </p>
 
-As a youth, Julian Day's father promised he would be home for the holidays. Taking a bus to wait for him at a bus stop, Day waited from Christmas Eve to New Year's Day. When the police took Day in on New Year's Day, he was almost dead from exposure. From then on, Day began to assign almost literal meanings to each day. In addition, he began to suffer mood swings related to the days.
+According to his first origin story, Aquaman aka Arthur Curry was the son of Atlanna, an Atlantean princess banished from Atlantis due to her interest in and frequent visits to the surface world, and Tom Curry, a lighthouse keeper living in Amnesty Bay, Maine. Both parents first meet each during a terrible storm one night, when Curry finds Atlanna thrown up on the shore by storm-tossed waves, and rescues her from harm. Both Curry and Atlanna made the lighthouse their home and developed a strong bond that would quickly lead to a sentimental relationship when Arthur was born. Although Curry always knew there was more to his wife than she would let on, he'd never ask her about her origins.
 
-**First Appearance:** Detective Comics #259 (9/1/1958)
+**First Appearance:** More Fun Comics #73 (11/30/1941)
 
-[Character Details](https://comicvine.gamespot.com/calendar-man/4005-19682/)
+[Character Details](https://comicvine.gamespot.com/aquaman/4005-2357/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
