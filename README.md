@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Owen Dane
+## Lara Lane Kent
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/6/69462/6129890-rco023.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/14487/4117460-supergirl.jpg" width="600" height="auto"/>
 </p>
 
-Owen Dane is a son of Danek Milos, the mad bomber also known as "The Snowman", who spent years in Arkham Asylum under Harleen Quinzel observation. After his death, he swore revenge on his father therapist, for locked him in asylum for the rest of his life.
+In a possible future shown to Lois Lane and Superman by Mr Mxyzptlk, Lara Lane Kent is Supergirl; their super-powered daughter. While hesitant to allow his only child to be a superhero, Superman soon comes to embrace Lara as his sidekick and trains her in the use of her Kryptonian abilities.
 
-**First Appearance:** Harley Quinn #26 (1/1/2003)
+**First Appearance:** Superman: That Healing Touch #1 (1/1/2005)
 
-[Character Details](https://comicvine.gamespot.com/owen-dane/4005-143749/)
+[Character Details](https://comicvine.gamespot.com/lara-lane-kent/4005-107970/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
