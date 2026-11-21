@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Lara Lane Kent
+## Dr. Phillip Sylvian
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/14487/4117460-supergirl.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6206/355814-75738-dr-phillip-sylvian.jpg" width="600" height="auto"/>
 </p>
 
-In a possible future shown to Lois Lane and Superman by Mr Mxyzptlk, Lara Lane Kent is Supergirl; their super-powered daughter. While hesitant to allow his only child to be a superhero, Superman soon comes to embrace Lara as his sidekick and trains her in the use of her Kryptonian abilities.
+If there was something interesting about Dr Phillip Sylvian, it was the kind of people he had meet in his life: for a normal professor of botanic he knew interesting people at Ivy University: his teacher, Jason Woodrue and several of his classmates: Alec Holland, Linda Ridge, Pamela Isley would had extraordinay destinies related to their common interest in vegetal life. This connection would made Sylvian to cooperate with Batman in an occasion.
 
-**First Appearance:** Superman: That Healing Touch #1 (1/1/2005)
+**First Appearance:** Black Orchid #1 (12/1/1988)
 
-[Character Details](https://comicvine.gamespot.com/lara-lane-kent/4005-107970/)
+[Character Details](https://comicvine.gamespot.com/dr-phillip-sylvian/4005-53429/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
