@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Dr. Phillip Sylvian
+## S'ivaa
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/0/6206/355814-75738-dr-phillip-sylvian.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7057763-s%27ivaa.jpg" width="600" height="auto"/>
 </p>
 
-If there was something interesting about Dr Phillip Sylvian, it was the kind of people he had meet in his life: for a normal professor of botanic he knew interesting people at Ivy University: his teacher, Jason Woodrue and several of his classmates: Alec Holland, Linda Ridge, Pamela Isley would had extraordinay destinies related to their common interest in vegetal life. This connection would made Sylvian to cooperate with Batman in an occasion.
+After the death of the Old Gods and before the rise of the new, there was a time when monstrous shadow elementals walked the cosmos. The last of them remaining is S'ivva, the Old God Dancer of destruction, a powerful divine monster whose dance could destroy the universe. When the New Gods came to power, S'ivva fell asleep under the eternal sea on New Genesis, there sleeping undisturbed for eons.
 
-**First Appearance:** Black Orchid #1 (12/1/1988)
+**First Appearance:** New Gods #9 (7/31/1996)
 
-[Character Details](https://comicvine.gamespot.com/dr-phillip-sylvian/4005-53429/)
+[Character Details](https://comicvine.gamespot.com/sivaa/4005-65835/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
