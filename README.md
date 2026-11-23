@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## S'ivaa
+## Chiller
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7057763-s%27ivaa.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/134753/8263532-r%289%29.jpg" width="600" height="auto"/>
 </p>
 
-After the death of the Old Gods and before the rise of the new, there was a time when monstrous shadow elementals walked the cosmos. The last of them remaining is S'ivva, the Old God Dancer of destruction, a powerful divine monster whose dance could destroy the universe. When the New Gods came to power, S'ivva fell asleep under the eternal sea on New Genesis, there sleeping undisturbed for eons.
+Chiller is a highly paid killer and disguise expert who is wanted by police agencies around the world. None of these agencies, however, have any clue about Chiller's past. Chiller was recruited by the 1000 to assassinate President Reagan and VP George Bush. Chiller was then to use his shape-changing ability to take the place of the President, appoint senator Henry Ballard as VP, and then resign his post due to ill health, leaving Ballard as President - free to appoint members of the 1000 to positions of influence and authority around the US.
 
-**First Appearance:** New Gods #9 (7/31/1996)
+**First Appearance:** Booster Gold #8 (9/30/1986)
 
-[Character Details](https://comicvine.gamespot.com/sivaa/4005-65835/)
+[Character Details](https://comicvine.gamespot.com/chiller/4005-28845/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
