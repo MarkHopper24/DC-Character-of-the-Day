@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Chiller
+## Joan Leland
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/13/134753/8263532-r%289%29.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/10113041-joan_leland.jpg" width="600" height="auto"/>
 </p>
 
-Chiller is a highly paid killer and disguise expert who is wanted by police agencies around the world. None of these agencies, however, have any clue about Chiller's past. Chiller was recruited by the 1000 to assassinate President Reagan and VP George Bush. Chiller was then to use his shape-changing ability to take the place of the President, appoint senator Henry Ballard as VP, and then resign his post due to ill health, leaving Ballard as President - free to appoint members of the 1000 to positions of influence and authority around the US.
+Joan Leland is best known for meeting and allowing Harley Quinzel to interview the Joker. Joan was in the DC Animated Univese cartoons she was in four episodes in Batman: The Animated Series "Harley's Holiday" and in The New Batman Adventures "Mad Love", "Double Talk", and "Chemistry".
 
-**First Appearance:** Booster Gold #8 (9/30/1986)
+**First Appearance:** The Batman Adventures: Mad Love #1 (2/1/1994)
 
-[Character Details](https://comicvine.gamespot.com/chiller/4005-28845/)
+[Character Details](https://comicvine.gamespot.com/joan-leland/4005-82715/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
