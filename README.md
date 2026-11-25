@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Joan Leland
+## Invictus
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/10113041-joan_leland.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/98822/2174486-untitled.png" width="600" height="auto"/>
 </p>
 
-Joan Leland is best known for meeting and allowing Harley Quinzel to interview the Joker. Joan was in the DC Animated Univese cartoons she was in four episodes in Batman: The Animated Series "Harley's Holiday" and in The New Batman Adventures "Mad Love", "Double Talk", and "Chemistry".
+Invictus is the sworn enemy of "the Beast", known to the outside universe as Larfleeze, and the provider and protector of all the Orrery's worlds. It is revealed that more of the race of "angels" like Invictus existed many eons ago. They found the sun-star system Vega and its surrounding worlds. The angels decided to shed their light of purity and righteousness with the various races that inhabited the planets they visited. Save for one race, the Changralyn were born pure noted by the angels. Many of the races formed councils of virtue dedicated to the angels. The angels had a bright future for the Vega system.
 
-**First Appearance:** The Batman Adventures: Mad Love #1 (2/1/1994)
+**First Appearance:** Green Lantern: New Guardians #5 (3/26/2012)
 
-[Character Details](https://comicvine.gamespot.com/joan-leland/4005-82715/)
+[Character Details](https://comicvine.gamespot.com/invictus/4005-82130/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
