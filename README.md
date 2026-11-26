@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Invictus
+## Prismatik
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/9/98822/2174486-untitled.png" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/891381-prismatik_2.jpg" width="600" height="auto"/>
 </p>
 
-Invictus is the sworn enemy of "the Beast", known to the outside universe as Larfleeze, and the provider and protector of all the Orrery's worlds. It is revealed that more of the race of "angels" like Invictus existed many eons ago. They found the sun-star system Vega and its surrounding worlds. The angels decided to shed their light of purity and righteousness with the various races that inhabited the planets they visited. Save for one race, the Changralyn were born pure noted by the angels. Many of the races formed councils of virtue dedicated to the angels. The angels had a bright future for the Vega system.
+Mother of Prismatik (her real name is unknown) fell in love with a man named Evan McCuloch, who seduced her and made her pregnant. As soon as she realized that he's a criminal, better known as Mirror Master, she informed police about his whereabouts. Owing to that he was sent to jail. After some time she gave birth to her daughter. Daughter never was an obedient child and, in fact, hated her mother, because she blamed everyone for her life, including daughter. But her hatred for Mirror Master was much stronger because he ruined her mother's life. After mother's death she attended to college and began to study optics and quantum theory.
 
-**First Appearance:** Green Lantern: New Guardians #5 (3/26/2012)
+**First Appearance:** The Last Days of Animal Man #2 (8/31/2009)
 
-[Character Details](https://comicvine.gamespot.com/invictus/4005-82130/)
+[Character Details](https://comicvine.gamespot.com/prismatik/4005-63802/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
