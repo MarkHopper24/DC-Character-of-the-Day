@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Prismatik
+## Carlos Gutierrez
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/891381-prismatik_2.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111147698/4342230-4341594-screen%2Bshot%2B2015-01-20%2Bat%2B7.37.43%2Bpm.jpg" width="600" height="auto"/>
 </p>
 
-Mother of Prismatik (her real name is unknown) fell in love with a man named Evan McCuloch, who seduced her and made her pregnant. As soon as she realized that he's a criminal, better known as Mirror Master, she informed police about his whereabouts. Owing to that he was sent to jail. After some time she gave birth to her daughter. Daughter never was an obedient child and, in fact, hated her mother, because she blamed everyone for her life, including daughter. But her hatred for Mirror Master was much stronger because he ruined her mother's life. After mother's death she attended to college and began to study optics and quantum theory.
+Carlos "Chuck" Gutierrez was a laid-off web designer with emphysema and only 97 dollars in his bank account who dressed up as a superhero every weekend to visit children at Metropolis City Center Hospital. Unfortunately, Gutierrez was shot and killed by an Unseen Terror when dressed as Superman via an untraceable, vanishing bullet.
 
-**First Appearance:** The Last Days of Animal Man #2 (8/31/2009)
+**First Appearance:** Batman/Superman #16 (1/31/2015)
 
-[Character Details](https://comicvine.gamespot.com/prismatik/4005-63802/)
+[Character Details](https://comicvine.gamespot.com/carlos-gutierrez/4005-112516/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
