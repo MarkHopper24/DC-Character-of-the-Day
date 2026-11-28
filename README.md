@@ -4,16 +4,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" alt="DC Logo" width="350" height="auto">
 </p>
 
-## Carlos Gutierrez
+## Levi Kamei
 <p align="center">
-<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11114/111147698/4342230-4341594-screen%2Bshot%2B2015-01-20%2Bat%2B7.37.43%2Bpm.jpg" width="600" height="auto"/>
+<img src="https://comicvine.gamespot.com/a/uploads/scale_medium/11138/111381541/8633943-fa1_p0uwiaeyviu.jpg" width="600" height="auto"/>
 </p>
 
-Carlos "Chuck" Gutierrez was a laid-off web designer with emphysema and only 97 dollars in his bank account who dressed up as a superhero every weekend to visit children at Metropolis City Center Hospital. Unfortunately, Gutierrez was shot and killed by an Unseen Terror when dressed as Superman via an untraceable, vanishing bullet.
+When Levi was 16, he moved to the United States to attend Columbia on a biology scholarship. After college, he got a job with The Prescot Company. They used Levi as a spokesperson to sell a land grab in his hometown in India, disappointing his family and leading to community protests. One such protest is met with government suppression, and Levi’s father is shot by police. In response, his mother performed ancient rites to call upon the spirits to empower Levi’s brother, Jacob. These spirits would forsake Jacob and choose Levi instead.
 
-**First Appearance:** Batman/Superman #16 (1/31/2015)
+**First Appearance:** The Swamp Thing #1 (5/1/2021)
 
-[Character Details](https://comicvine.gamespot.com/carlos-gutierrez/4005-112516/)
+[Character Details](https://comicvine.gamespot.com/levi-kamei/4005-167865/)
 
 <h2>What is this repository?</h2>
 DC Character of the Day is a PowerShell-based application hosted in GitHub that provides information about a different DC character each day. The repository picks a random character daily @ 5am UTC.
